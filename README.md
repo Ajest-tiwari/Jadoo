@@ -1,15 +1,13 @@
-![image](https://freeimage.host/i/JjNerwG)# calling-jadoo
+# Jadoo 
+<div align="center">
 
-this is just a stimulator of calling jadoo inspired by movie "Koi mil gaya"
+  <h2 align="center"> jadoo </h2>
 
-Here are somescreenshots :
- ![image](https://freeimage.host/i/JjNegus)
+   jadoo fully responsive page, <br />Responsive for Laptop, build using HTML, CSS, JS.
 
+  <a href="https://jadoo-silk.vercel.app/"><strong>➥ Live Demo</strong></a>
 
-When you press keys : 
-it also do sound "oo ohh oo oooo"  😂
+  credit gose to:- Arpit Singh Yadav
+  Devloped by:- Ajest Tiwari
 
-Thanks and follow me on my social handles :
-
-Insta : https://www.instagram.com/mr_arpit_08/
-Youtube : https://www.youtube.com/channel/UCnFolF8keD3SwOKmfOPLlkw
+</div>
